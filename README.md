@@ -1,16 +1,67 @@
-### Hi there 👋
+  <h1>Opa, eae!</h1>
 
-<!--
-**paulo-rubio/paulo-rubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+	const name = 'Paulo Cezar Rubio';
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	let status = 
+	{ 
+	  learning : [JavaScript, React, Laravel, Docker],
+	  interests: [Research, Programming]
+	}
+
+
+	const skills = 
+	{
+	  languages :[Javascript, HTML],
+	  ide       :[Vs Code],
+	  frameworks:[Bootstrap, React],
+	  platforms :[Linux],
+	}
+
+- Estou em constante aprendizado em **JavaScript e React**
+- Você pode me encontrar em **Paulocezarrubio@gmail.com**
+
+<div align="center">
+  <a href="https://github.com/paulo-rubio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<table align="center" >
+ <tr>
+            <td width="80px" align="center">
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+            <span><strong>Javascript</strong></span><br>
+            </td>
+            <td width="80px" align="center">
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <span><strong>HTML</strong></span><br>
+            </td>
+            <td width="80px" align="center">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <span><strong>CSS</strong></span><br>
+            </td>
+            <td width="80px" align="center">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            <span><strong>React</strong></span><br>
+            </td>
+        </tr>
+          <tr align="top">
+            <td width="80px" align="center">
+            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            <span><strong>RTL</strong></span><br>
+            </td>
+            <td width="80px" align="center">
+            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+            <span><strong>Jest</strong></span><br>
+            </td>
+            <td width="80px" align="center">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <strong>GitHub</strong><br>
+            </td>
+            <td width="80px" align="center">
+            <br>
+            aprendendo..
+            </td>
+        </tr>
+</table>
