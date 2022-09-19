@@ -5,12 +5,12 @@
 
 	let status = 
 	{ 
-	  learning : [JavaScript, React, Laravel, Docker],
-	  interests: [Research, Programming]
+	  aprendendo : [JavaScript, React, Docker],
+	  interesses : [Programming]
 	}
 
 
-	const skills = 
+	let skills = 
 	{
 	  languages :[Javascript, HTML],
 	  ide       :[Vs Code],
