@@ -10,7 +10,7 @@
 	}
 
 
-	let skills = 
+	const skills = 
 	{
 	  languages :[Javascript, HTML],
 	  ide       :[Vs Code],
