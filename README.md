@@ -5,14 +5,14 @@
 
 	let status = 
 	{ 
-	  aprendendo : [JavaScript, React, Docker],
+	  aprendendo : [JavaScript, React, Docker, TypeScript],
 	  interesses : [Programming]
 	}
 
 
 	const skills = 
 	{
-	  languages :[Javascript, HTML],
+	  languages :[Javascript, TypeScript],
 	  ide       :[Vs Code],
 	  frameworks:[Bootstrap, React],
 	  platforms :[Linux],
