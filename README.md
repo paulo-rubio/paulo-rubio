@@ -22,40 +22,23 @@
 - Você pode me encontrar em **Paulocezarrubio@gmail.com**
 
 <table align="center" >
- <tr>
-            <td width="80px" align="center">
-            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
-            <span><strong>Javascript</strong></span><br>
-            </td>
-            <td width="80px" align="center">
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            <span><strong>HTML</strong></span><br>
-            </td>
-            <td width="80px" align="center">
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            <span><strong>CSS</strong></span><br>
-            </td>
-            <td width="80px" align="center">
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            <span><strong>React</strong></span><br>
-            </td>
-        </tr>
-          <tr align="top">
-            <td width="80px" align="center">
-            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-            <span><strong>RTL</strong></span><br>
-            </td>
-            <td width="80px" align="center">
-            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
-            <span><strong>Jest</strong></span><br>
-            </td>
-            <td width="80px" align="center">
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <strong>GitHub</strong><br>
-            </td>
-            <td width="80px" align="center">
-            <br>
-            aprendendo..
-            </td>
-        </tr>
+  <tr align="top">
+    <img height="32px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-icon">
+    <img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5-icon">
+    <img height="32px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="css3-icon">
+    <img height="32px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="react Native-icon">
+  </tr>
+  <tr align="top">
+    <img height="32px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React-icon">
+    <img height="32px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="TypeScript-icon">
+    <img height="32" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+    alt="Redux-icon">
+    <img height="32px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub-icon">
+  </tr>
+
 </table>
