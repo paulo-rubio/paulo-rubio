@@ -48,6 +48,7 @@
   <td>
     <img height="32px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL-icon">
+    <img height="32px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest-Icon"/>
   </tr>
 
 </table>
