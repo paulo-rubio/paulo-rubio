@@ -18,7 +18,7 @@
 	  platforms :[Linux],
 	}
 
-- Estou em constante aprendizado em **JavaScript e React**
+- Estou em constante aprendizado em **JavaScript e TypeScript**
 - Você pode me encontrar em **Paulocezarrubio@gmail.com**
 
 <table align="center" >
