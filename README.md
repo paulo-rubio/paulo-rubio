@@ -44,5 +44,10 @@
     alt="GitHub-icon">
     </td>
   </tr>
+  <tr align="center">
+  <td>
+    <img height="32px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+    alt="MySQL-icon">
+  </tr>
 
 </table>
